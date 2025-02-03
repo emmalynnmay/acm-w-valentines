@@ -12,9 +12,45 @@
   transition: filter 300ms;
 }
 
-
 .credit {
   font-size: 0.8em;
   margin-top: 1em;
   color: rgb(116, 123, 255, .5);
+}
+
+.book {
+  background-color: cornflowerblue;
+}
+
+.EmmaMay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightpink;
+  height: 100%;
+}
+
+.valentine-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #ffe6e6;
+}
+.valentine-card {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.valentine-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #e6005c;
+}
+.valentine-subtext {
+  font-size: 18px;
+  color: #333;
+  margin-top: 10px;
 }
