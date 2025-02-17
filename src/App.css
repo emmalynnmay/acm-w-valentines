@@ -92,3 +92,32 @@
   to { transform: scale(1.1); }
 }
 
+/* Emma May */
+.emmamay-valentine-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+  padding: 75px;
+}
+.emmamay-valentine-card {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.emmamay-valentine-text {
+  font-size: 35px;
+  font-weight: bold;
+  color: teal;
+}
+.emmamay-img {
+  height: 300px;
+  animation: dance 3s infinite alternate;
+}
+@keyframes dance {
+  from { transform: rotate(-10deg); }
+  to { transform: rotate(10deg); }
+}
+
