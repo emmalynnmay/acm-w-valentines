@@ -28,4 +28,3 @@ If you encounter merge conflicts or any other issues, let a presidency member kn
 ## Graphic Attribution
 * https://i0.wp.com/www.partyvalue.com/wp-content/uploads/2022/01/90018-Happy-Valentines-Day-Heart-Cutout-1ct.jpg?fit=2000%2C2000&ssl=1
 
-Built with React (+ Typescript) in Vite
