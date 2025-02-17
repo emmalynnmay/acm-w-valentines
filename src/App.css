@@ -32,45 +32,41 @@
   margin: 10px;
 }
 
-.EmmaMay {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: lightpink;
-  height: 100%;
-}
+/* DO NOT EDIT CSS ABOVE THIS LINE! */
 
-.valentine-container {
+/* Example */
+.example-valentine-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100%;
   background-color: #ffe6e6;
+  padding: 75px;
 }
-.valentine-card {
+.example-valentine-card {
   background: white;
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
-.valentine-text {
-  font-size: 24px;
+.example-valentine-text {
+  font-size: 35px;
   font-weight: bold;
   color: #e6005c;
 }
-.valentine-subtext {
+.example-valentine-subtext {
   font-size: 18px;
   color: #333;
   margin-top: 10px;
 }
 
+/* Example 1 */
 .valentine-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   background: linear-gradient(135deg, #ff758c, #ff7eb3);
+  padding: 75px;
 }
 .heart-container {
   display: flex;
@@ -82,11 +78,11 @@
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 .heart {
-  font-size: 50px;
+  font-size: 75px;
   animation: beat 1s infinite alternate;
 }
 .message {
-  font-size: 22px;
+  font-size: 27px;
   color: #d4005c;
   font-weight: bold;
   margin-top: 10px;
@@ -95,3 +91,4 @@
   from { transform: scale(1); }
   to { transform: scale(1.1); }
 }
+
