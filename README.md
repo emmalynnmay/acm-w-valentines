@@ -8,8 +8,8 @@ View the live site: https://emmalynnmay.github.io/acm-w-valentines/
 2. From inside the directory, create and checkout a new branch. Run: `git checkout -B firstname-lastname`
 3. Install packages. Run `npm install`
 4. Run the application locally. Run `npm run dev`
-5. Create a new file in `src/components/pages` titled `FirstnameLastname.tsx`
-6. Edit `src/App.tsx` to import and insert your component (instructions are in the file).
+5. Create a new file in `src/components/pages` titled `FirstnameLastname.jsx`
+6. Edit `src/App.jsx` to import and insert your component (instructions are in the file).
 7. Create your valentine in the file you just made. Feel free to add css to `src/App.css`.
 8. When you're happy with your valentine, commit your changes with git. Run:
 ```
