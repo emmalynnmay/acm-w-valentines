@@ -19,7 +19,7 @@ git commit -m "Firstname Lastname valentine"
 git push origin firstname-lastname
 ```
 9. You should now be able to view your branch at https://github.com/emmalynnmay/acm-w-valentines.
-10. Click the button `Open a Pull Request` and follow the prompts.
+10. Click the button `Compare & pull request` and follow the prompts.
 11. A presidency member will review your PR and merge it to `main`. The live site will be updated with everyone's changes periodically throughout the activity.
 
 If you encounter merge conflicts or any other issues, let a presidency member know and we will help you get them resolved!
