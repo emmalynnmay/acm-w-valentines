@@ -5,10 +5,10 @@ import { useState } from 'react'
 import Example from './components/pages/Example'
 import Example1 from './components/pages/Example1'
 // Import your component here!
-
+import EmmaMay from './components/pages/EmmaMay'
 
 // Once you've imported your component, add it to CARDS
-const CARDS = [Example, Example1]
+const CARDS = [Example, Example1, EmmaMay]
 
 function App() {
 
