@@ -7,9 +7,10 @@ import Example1 from './components/pages/Example1'
 // Import your component here!
 import EmmaMay from './components/pages/EmmaMay'
 import AnnieHouston from './components/pages/AnnieHouston'
+import HaleySmith from './components/pages/HaleySmith'
 
 // Once you've imported your component, add it to CARDS
-const CARDS = [Example, Example1, EmmaMay, AnnieHouston]
+const CARDS = [Example, Example1, EmmaMay, AnnieHouston, HaleySmith]
 
 function App() {
 
